@@ -45,3 +45,8 @@ Note
 ----
 
 The script may take a while to run as it is scraping a large amount of data from multiple pages.
+
+Future Work
+-----------
+
+Implement the feature to automatically scrape additional reviews by pressing the "Load more" button on review pages
